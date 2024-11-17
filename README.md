@@ -14,10 +14,11 @@ This project focuses on classifying wine types based on various chemical feature
 - **K-Nearest Neighbors (KNN)**: Implementing KNN for wine classification.
 - **Decision Tree Classifier**: Training and evaluating a Decision Tree model for classification.
 - **Model Comparison**: Comparing the accuracy of KNN and Decision Tree models.
-- **Visualization**: 
-  - Accuracy comparison bar plot.
-  - Confusion matrix heatmaps for both models.
-  - Feature importance plot for Decision Tree.
+
+## Visualization**: 
+- Accuracy comparison bar plot.
+- Confusion matrix heatmaps for both models.
+- Feature importance plot for Decision Tree.
 
 ## Dataset
 
